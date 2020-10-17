@@ -13,31 +13,31 @@ body{
 span{
     font-weight: bold;
 }
-#titleImg, #menuImg, #corazon, #chat, #enviar, #guardar {
+.titleImg, .menuImg, .corazon, .chat, .enviar, .guardar {
     width: 1.9rem;
     height: 1.9rem;
 }
-#titleImg, #menuImg{
+.titleImg, .menuImg{
     margin-top: 0.4rem;
 }
-#chat{
+.chat{
     margin-left: 0.5rem;
 }
-#chat{
+.chat{
     margin-left: 0.3rem;
 }
-#fixInstagramUser{
+.fixInstagramUser{
     margin: 0;
     display: flex;
     justify-content: left;
     align-items: center;
     padding: 0.62rem;
 }
-#username p{
+.username p{
     line-height: 0.1rem;
     padding-left: 0.44rem;
 }
-#submenu{
+.submenu{
     margin-top: 1.125rem;
     padding-right: 0.188rem;
 }
